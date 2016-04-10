@@ -1,8 +1,8 @@
 # TDDD27-WebVis
 Web project in the course TDDD27 at Linköpings University.
 
-Client framework: TBD
+Client framework: Angular 2.0 (TBD)
 
-Server framework: TBD
+Server framework: Meteor (TBD)
 
-Deployment platform: TBD
+Deployment platform: RedHat Openshift (TBD)
